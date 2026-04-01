@@ -166,7 +166,7 @@ Made using Tableau Public with real-time, drillable dashboards for sales trends,
 
 | Tool | Purpose |
 |------|---------|
-| **MySQL Workbench** | Data analysis and querying |
+| **Sql Server Management Studio** | Data analysis and querying |
 | **Tableau** | Data visualization and dashboard creation |
 | **Microsoft Excel** | Data formatting and pre-processing |
 | **GitHub** | Version control & project hosting |
